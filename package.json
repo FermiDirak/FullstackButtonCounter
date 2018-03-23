@@ -1,0 +1,10 @@
+{
+  "name": "FullstackCounter",
+  "version": "1.0.0",
+  "description": "A fullstack application demonstrating best practices with the MERN stack",
+  "main": "server/index.js",
+  "repository": "https://github.com/FermiDirak/FullstackCounter.git",
+  "author": "fermi_dirac <ManueleBryan@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
