@@ -4,7 +4,7 @@ import routes   from './routes';
 
 const app = express();
 
-mongoose.connect('mongodb://localhost/counter')
+mongoose.connect('mongodb://localhost/fullstack_counter')
   .then(() => {
     console.log('connected to mongodb');
   })
